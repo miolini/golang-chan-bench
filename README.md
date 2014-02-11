@@ -22,6 +22,8 @@ This is simple Golang channel benchmark.
 | 2014-02-12 | Intel Atom N270 @ 1.6GHz | Ubuntu 12.04 LTS i686 | 1.2 | 542 | 538 |
 | 2014-02-12 | Intel Core i5 M 520 @ 2.4GHz | Ubuntu 12.04 LTS x86_64 | 1.2 | 82 | 157|
 | 2014-02-12 | DigitalOcean $5 (1 core) @ 2.1GHz | Ubuntu 12.04 LTS x86_64 | 1.2 | 86 | 270 |
+| 2014-02-12 | Amazon EC2 t1.micro Intel Xeon E5 2650 0 @ 2GHz | Ubuntu 12.04 LTS x86_64 | 1.2 | 118 | 478 |
+
 ## Contacts
 
 Please, send results to mio@volmy.com. Thank you.
