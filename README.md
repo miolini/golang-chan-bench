@@ -7,9 +7,12 @@ This is simple Golang channel benchmark.
 
 ## Instructions
 
+```
 # make
 # GOMAXPROCS=1 ./chan_bench 
 # GOMAXPROCS=2 ./chan_bench
+```
+
 
 ## Results
 
