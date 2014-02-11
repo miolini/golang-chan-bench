@@ -1,2 +1,2 @@
 all:
-	go build -o chan_bench chan_bench.go
+	go test chan_bench_test.go --test.bench ".*" --test.benchtime=10s
